@@ -1,0 +1,10 @@
+package edu.elon.example.myapp;
+import org.opencv.core.*;
+
+public class Classifier {
+
+	public Classifier()
+	{
+		
+	}
+}

@@ -1,0 +1,11 @@
+INDEX VERSION 1.127+C:\Users\ptraunfeld\Desktop\ComputerVision\.metadata\.plugins\org.eclipse.jdt.core
+533278242.index
+3975541785.index
+1794416042.index
+1287248301.index
+1623956065.index
+1179002121.index
+383163835.index
+3396881265.index
+2895442973.index
+489341019.index

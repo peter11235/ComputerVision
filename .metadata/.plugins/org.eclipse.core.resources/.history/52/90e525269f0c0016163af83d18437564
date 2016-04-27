@@ -1,0 +1,9 @@
+package edu.elon.example.myapp;
+
+public class Classifier {
+
+	public Classifier()
+	{
+		
+	}
+}
